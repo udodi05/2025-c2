@@ -1,0 +1,5 @@
+You can work offline and sync later.
+If the central server is lost, any developer can restore it.
+Pros: Safer, faster, more flexible.
+Cons: Slightly more complex to learn.
+Example: Git, Mercurial.
